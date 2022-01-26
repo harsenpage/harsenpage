@@ -6,6 +6,7 @@
 ## I'm a UI Designer & Mobile Developer 👻
 
 - 🌱 I’m currently learning Dart & Flutter 🐱‍💻
+- ⚡ I’m currently developing Mobile App Twick 💻
 
 ### Connect with me:
 
