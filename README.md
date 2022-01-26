@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="harsenpage| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/harsenpage)]
-[<img align="left" alt="harsenpage | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />](https://dribbble.com/harsenpage)]
-[<img align="left" alt="harsenpage | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/harsenpage/)]
+[<img align="left" alt="harsenpage| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/harsenpage)
+[<img align="left" alt="harsenpage | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />](https://dribbble.com/harsenpage)
+[<img align="left" alt="harsenpage | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/harsenpage/)
 
 <br />
 
