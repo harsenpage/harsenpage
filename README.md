@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/harsenpage?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/harsenpage)
 
-## I'm a UI Designer & Mobile Developer 👻
+## I'm UI Designer & Mobile Developer 👻
 
 - 🌱 I’m currently learning Dart & Flutter 🐱‍💻
 - ⚡ I’m currently developing Mobile App Twick 💻
