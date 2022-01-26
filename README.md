@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrew 👋 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/harsenpage?color=F5F5F5&logo=twitter&style=for-the-badge)](https://twitter.com/harsenpage)
+[![Twitter Follow](https://img.shields.io/twitter/follow/harsenpage?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/harsenpage)
 
 ## I'm UI Designer & Mobile Developer 👻
 
