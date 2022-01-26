@@ -6,7 +6,7 @@
 ## I'm UI Designer & Mobile Developer 👻
 
 - 🌱 I’m currently learning Dart & Flutter 🐱‍💻
-- ⚡ I’m currently developing Mobile App Twick 💻
+- ⚡ Goal 2022 → Launch Mobile App Twick 💻
 
 ### Connect with me:
 
