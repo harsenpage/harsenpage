@@ -1,13 +1,6 @@
 ### Hi there, I'm Andrew 👋 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/harsenpage?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/harsenpage)
-
-## I'm UI Designer & Mobile Developer 👻
-
-- 💡 I’m currently learning Dart & Flutter 🐱‍💻
-- ⚡ Goal 2022 → Launch Mobile App Twick 💻
-
 ### Connect with me:
 
 [<img align="left" alt="harsenpage| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/harsenpage)
